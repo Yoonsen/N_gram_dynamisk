@@ -24,7 +24,7 @@ def ngram(NGRAM, word = None, ddk = None, subject = None, period = None, lang = 
 
 image = Image.open('NB-logo-no-eng-svart.png')
 st.image(image, width = 200)
-st.markdown('Les mer DH her [DHLAB-siden](https://nbviewer.jupyter.org/github/DH-LAB-NB/DHLAB/blob/master/DHLAB_ved_Nasjonalbiblioteket.ipynb)')
+st.markdown('Les mer om DH på [DHLAB-siden](https://nbviewer.jupyter.org/github/DH-LAB-NB/DHLAB/blob/master/DHLAB_ved_Nasjonalbiblioteket.ipynb)')
 
 
 st.title('Ord og bigram')
